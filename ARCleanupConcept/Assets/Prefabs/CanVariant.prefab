@@ -38,7 +38,7 @@ PrefabInstance:
       objectReference: {fileID: 423345586885839936, guid: 0b84de40df9f03440876221fb1c01ff4, type: 3}
     - target: {fileID: 3435864238947048048, guid: ebd7292e888c84f05924605e51048072, type: 3}
       propertyPath: m_TagString
-      value: Garbage
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 3471538223933167219, guid: ebd7292e888c84f05924605e51048072, type: 3}
       propertyPath: m_Materials.Array.data[0]
